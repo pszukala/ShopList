@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/product_name_bought"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp" >
+    </TextView>
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/amount_bought"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp" >
+    </TextView>
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/product_price_bought"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp" >
+    </TextView>
+</layout>
