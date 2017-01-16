@@ -46,3 +46,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 .idea/workspace.xml
+*.lock
+.idea/workspace.xml
+*.properties
+.gradle/2.4/taskArtifacts/outputFileStates.bin
+*.bin
